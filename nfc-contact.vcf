@@ -2,9 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 N:Kokona;Alexander;;;
 FN:Alexander Kokona
-ORG:Trinkets+
-TITLE:CEO, Founder
+ORG:Brigham Young University - Idaho, Student
+TITLE:Security+ Certified Professional
 TEL;TYPE=work,voice:+1 (480) 901-5274
-EMAIL:trinkets.plus.contact@gmail.com
-URL:https://alexanderkokona.github.io/trinkets-plus-website/main/index.html
+EMAIL:alexanderkokona@gmail.com
+URL:https://www.linkedin.com/in/alexander-kokona-850039303/
+URL:https://github.com/alexanderkokona
 END:VCARD
